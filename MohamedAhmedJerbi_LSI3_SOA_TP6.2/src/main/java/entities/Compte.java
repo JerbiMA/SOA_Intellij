@@ -77,5 +77,7 @@ public class Compte {
         BLOQUE // Compte bloqué
     }
 
-
+    public void setId(Long id) {
+        this.id = id;
+    }
 }
